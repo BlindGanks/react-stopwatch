@@ -7,13 +7,13 @@ A brief description of what this project does and who it's for
 Clone the project
 
 ```bash
-  git clone https://github.com/BlindGanks/infinite-scrolling-cat-pictures.git
+  git clone https://github.com/BlindGanks/react-stopwatch.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd infinite-scrolling-cat-pictures
+  cd react-stopwatch
 ```
 
 Install dependencies
